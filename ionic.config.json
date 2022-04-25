@@ -1,0 +1,7 @@
+{
+  "name": "watherApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
