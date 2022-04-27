@@ -25,3 +25,42 @@
 #container a {
   text-decoration: none;
 }
+
+.searchBar {
+  --ion-background-color: #3b7388;
+  color: #fff;
+}
+
+.cardStyle {
+  border-radius: 20px;
+  --ion-background-color: #3b7388;
+  span {
+    color: #fff;
+    font-weight: 300;
+  }
+  #temp {
+    font-weight: 300;
+    color: #fff;
+    font-size: 4em;
+    margin: 5px;
+  }
+  .cilic {
+    color: #fff;
+    font-size: 4em;
+  }
+  #locationIcon, #date {
+    color: #f6b844;
+  }
+  .today-report {
+    color: #fff;
+    font-weight: 500;
+  }
+}
+.label {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.text-center {
+  text-align: center;
+  margin: 15px;
+}
